@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HealthCare/static/css/main.05b6fca3.css",
+    "main.js": "/HealthCare/static/js/main.300cb794.js",
+    "static/js/787.34927058.chunk.js": "/HealthCare/static/js/787.34927058.chunk.js",
+    "static/media/josefin-sans-all-400-normal.woff": "/HealthCare/static/media/josefin-sans-all-400-normal.e89cb50b139916039cdc.woff",
+    "static/media/josefin-sans-latin-400-normal.woff2": "/HealthCare/static/media/josefin-sans-latin-400-normal.36152c4291179fb52202.woff2",
+    "static/media/josefin-sans-latin-ext-400-normal.woff2": "/HealthCare/static/media/josefin-sans-latin-ext-400-normal.3229870392aaa18099d0.woff2",
+    "static/media/josefin-sans-vietnamese-400-normal.woff2": "/HealthCare/static/media/josefin-sans-vietnamese-400-normal.4a3e569a0e9e99674d59.woff2",
+    "index.html": "/HealthCare/index.html",
+    "main.05b6fca3.css.map": "/HealthCare/static/css/main.05b6fca3.css.map",
+    "main.300cb794.js.map": "/HealthCare/static/js/main.300cb794.js.map",
+    "787.34927058.chunk.js.map": "/HealthCare/static/js/787.34927058.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b6fca3.css",
+    "static/js/main.300cb794.js"
+  ]
+}
