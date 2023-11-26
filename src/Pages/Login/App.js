@@ -1,16 +1,16 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
-import AuthProvider from './Context/AuthProvider.js';
-import About from './Pages/About/About/About.js';
-import Approved from './Pages/Approved/Approved.js';
-import Contact from './Pages/Contact/Contact/Contact.js';
-import Dentist from './Pages/Dentist/Denitst/Dentist.js';
-import Footer from './Pages/Home/Footer/Footer.js';
-import Header from './Pages/Home/Header/Header.js';
-import Home from './Pages/Home/Home/Home.js';
-import Login from './Pages/Login/Login.js';
-import NotFound from './Pages/NotFound/NotFound.js';
-import Service from './Pages/Services/Service/Service.js';
+import AuthProvider from './src/Context/AuthProvider.js';
+import About from './src/Pages/About/About/About.jsx';
+import Approved from './src/Pages/Approved/Approved.jsx';
+import Contact from './src/Pages/Contact/Contact/Contact.jsx';
+import Dentist from './src/Pages/Dentist/Denitst/Dentist.jsx';
+import Footer from './src/Pages/Home/Footer/Footer.jsx';
+import Header from './src/Pages/Home/Header/Header.jsx';
+import Home from './src/Pages/Home/Home/Home.jsx';
+import Login from './src/Pages/Login/Login.jsx';
+import NotFound from './src/Pages/NotFound/NotFound.jsx';
+import Service from './src/Pages/Services/Service/Service.jsx';
 
 function App() {
   return (
